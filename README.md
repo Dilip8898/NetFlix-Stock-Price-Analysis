@@ -1,1 +1,1 @@
-# NetFlix-Stock-Price-Analysis
+# Netflix-Stock-Price-Analysis
